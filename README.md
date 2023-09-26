@@ -24,7 +24,7 @@ This dashboard is created to analyse and visualize key aspects of retail sales d
  -> Electronics (35%)
  -> Clothing (34%)
  -> Beauty (31%)
-Key Insights: 
+# Key Insights: 
 1. Total revenue is 456K.
 2. Females of age group 26-55 purchase highly.
 3. The number of items bought increases in the month of May, August and October.
